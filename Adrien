@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Adrien</title>
+        
+    <body>
+        <button id= Pokemon>Pokemon</button> <br>
+        <button id=Cest>C'est</button> <br>
+        <button id=Genial>Genial</button>
+    </body>
+</html>
